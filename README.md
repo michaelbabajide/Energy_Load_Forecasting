@@ -1,6 +1,6 @@
 # Energy Load Forecasting
 
-This project is focused on training and testing machine learning forecasting algorithms to predict electricity load, and compare these forecasts with the official predictions from the weekly pre-dispatch reports. The goal of this project is to improce forecasting accuracy and to provide a better understanding of the factors that influence electricity load in Panama.
+This project is focused on training and testing machine learning forecasting algorithms to predict electricity load, and compare these forecasts with the official predictions from the weekly pre-dispatch reports. The goal of this project is to improve forecasting accuracy and to provide a better understanding of the factors that influence electricity load in Panama.
 
 ## Dataset
 
